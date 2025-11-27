@@ -1,6 +1,7 @@
 # Spam Email Classification – Project 1
 
 The goal is to implement several classification models (including from-scratch implementations) and compare their performance using 5-fold cross-validation.
+
 In this project, the term **“test data”** refers to the **held-out validation folds in 5-fold cross-validation**.  
 For each fold, models are trained on the training subset and evaluated on the validation subset, and we report accuracy, precision, recall, and F1-score.
 
